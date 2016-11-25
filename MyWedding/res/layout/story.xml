@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="20dp"
+        android:text="It was a typical Saturday night and I was looking for plans, so I ended up meeting my friend at a bar (but I drove so no drinking for me!). We started at one place but as the night progressed my friends were looking for more. First they wanted live music, so we went to a place with a band. Then they wanted to dance so I chose a place where we could dance. Finally, they wanted to meet men, so I took them to a bar notorious for having a lot of men. It was one of the less classy bars in NYC (OK fine, it was downright fratty) and at this point it was about 3 a.m.
+As I waited on the sidelines watching my friends do their thing I was deflecting conversations from drunk boys left and right looking for someone to take home that evening. Then a different kind of guy approached me — he seemed nice and he wasn&apos;t slurring his words so I thought he would be a perfect buffer! Time goes one, he asked for my number, I gave him my real one (gasp!) and didn&apos;t think too much of it. Heard from him the next day… and we’ve been together ever since. Who would have thought that playing wingwoman would land me a boyfriend?”
+"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+</ScrollView>

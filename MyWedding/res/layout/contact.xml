@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="20dp"
+        android:text="NYENJE SIMON PETETR
+        0755548887
+        BARAKA MARTIN
+        0773514583
+        BIYINZIKA FAITH
+        0701894796
+        ADELINE
+        0771807390
+        DAVID
+        0773188022
+        RAMSEY LEXSON
+        0751406470
+        KIMANYA DENIS
+        0704509727
+        MUS
+        0753205532"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+</ScrollView>
